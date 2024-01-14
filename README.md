@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Musigwa
 - 👀 I’m interested in Senior React-Native, ReactJs, NextJs, NodeJs works
 - 🌱 I’m currently learning Dart/Flutter
-- 💞️ I’m looking to collaborate on Healthcare, Editech and fintech opensource projects.
+- 💞️ I want to collaborate on Healthcare, Editech, and Fintech open-source projects.
 - 📫 How to reach me: pacifique.musigwa@gmail.com | WhatsApp: +250785782928
 
 <!---
