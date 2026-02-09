@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Musigwa
-- 👀 Ask me anything about React-Native, NextJs, NestJs
+- 👀 Ask me anything about React-Native, NextJs, and NestJs
 - 🌱 I’m currently learning Dart/Flutter
 - 💞️ I want to collaborate on Healthcare, E-commerce, and Fintech open-source projects.
 - 📫 How to reach me: pacifique.musigwa@gmail.com
